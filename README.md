@@ -1,4 +1,4 @@
-🌦️ WhimsyWeather
+🌦️ PixifyWeather
 
 A fun, modern, and *slightly whimsical* weather app built with **HTML + Tailwind + JavaScript**.  
 Check the forecast, save your favorite cities, and enjoy a cool glassy UI ✨
