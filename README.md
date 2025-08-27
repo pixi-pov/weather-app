@@ -21,4 +21,4 @@ Getting Started
  1. Clone the repo
 ```bash
 git clone https://github.com/pixi-pov/weather-app.git
-cd whimsyweather
+
