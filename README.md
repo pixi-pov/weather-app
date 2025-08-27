@@ -12,7 +12,7 @@ Check the forecast, save your favorite cities, and enjoy a cool glassy UI ✨
 - 📊 **24-hour sparkline** with Chart.js  
 - 📅 **7-day forecast** powered by Open-Meteo  
 - 🔦 Dark / Light **theme toggle**  
-- 🧡 Footer: *Made with ❤️ by Anish*  
+
 
 
 
